@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_data.xml.flat",
+        "source": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\src\\main\\res\\layout\\row_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login_page.xml.flat",
+        "source": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\src\\main\\res\\layout\\activity_login_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_buttom_ly.xml.flat",
+        "source": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\src\\main\\res\\drawable\\custom_buttom_ly.xml"
+    },
+    {
+        "merged": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rainbow.png.flat",
+        "source": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\src\\main\\res\\drawable\\rainbow.png"
+    },
+    {
+        "merged": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_buttin_lb.xml.flat",
+        "source": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\src\\main\\res\\drawable\\custom_buttin_lb.xml"
+    },
+    {
+        "merged": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_folder.png.flat",
+        "source": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\src\\main\\res\\drawable\\folder.png"
+    },
+    {
+        "merged": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_aboutus.png.flat",
+        "source": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\src\\main\\res\\drawable\\aboutus.png"
+    },
+    {
+        "merged": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_button_blue.xml.flat",
+        "source": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\src\\main\\res\\drawable\\custom_button_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_button_yellow.xml.flat",
+        "source": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\src\\main\\res\\drawable\\custom_button_yellow.xml"
+    },
+    {
+        "merged": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lock.png.flat",
+        "source": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\src\\main\\res\\drawable\\lock.png"
+    },
+    {
+        "merged": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_camera.png.flat",
+        "source": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\src\\main\\res\\drawable\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_setting_language.xml.flat",
+        "source": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\src\\main\\res\\layout\\activity_setting_language.xml"
+    },
+    {
+        "merged": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_button_pink.xml.flat",
+        "source": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\src\\main\\res\\drawable\\custom_button_pink.xml"
+    },
+    {
+        "merged": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_button_circle.xml.flat",
+        "source": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\src\\main\\res\\drawable\\custom_button_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_food.xml.flat",
+        "source": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\src\\main\\res\\layout\\activity_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_b_m_i_calculator.xml.flat",
+        "source": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\src\\main\\res\\layout\\activity_b_m_i_calculator.xml"
+    },
+    {
+        "merged": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_register.png.flat",
+        "source": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\src\\main\\res\\drawable\\register.png"
+    },
+    {
+        "merged": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register_page.xml.flat",
+        "source": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\src\\main\\res\\layout\\activity_register_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_menu.png.flat",
+        "source": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\src\\main\\res\\drawable-v24\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login.png.flat",
+        "source": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\src\\main\\res\\drawable\\login.png"
+    },
+    {
+        "merged": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_option.png.flat",
+        "source": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\src\\main\\res\\drawable\\option.png"
+    },
+    {
+        "merged": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dish.png.flat",
+        "source": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\src\\main\\res\\drawable\\dish.png"
+    },
+    {
+        "merged": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_menu.xml.flat",
+        "source": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user.png.flat",
+        "source": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_button_db.xml.flat",
+        "source": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\src\\main\\res\\drawable\\custom_button_db.xml"
+    },
+    {
+        "merged": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\build\\intermediates\\res\\merged\\debug\\drawable_uploadversion1.png.flat",
+        "source": "C:\\Users\\L\\Desktop\\MyAppProj\\app\\src\\main\\res\\drawable\\uploadversion1.png"
+    }
+]

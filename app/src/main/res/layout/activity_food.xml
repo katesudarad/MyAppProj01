@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    tools:context=".MainActivity">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="309dp"
+            android:layout_height="39dp"
+            android:fontFamily="monospace"
+            android:text="@string/mylist"
+            android:textColor="#273059"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.023" />
+
+        <Button
+            android:id="@+id/button_update"
+            android:layout_width="86dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/custom_button_db"
+            android:contentDescription="@string/update_button"
+            android:fontFamily="monospace"
+            android:text="@string/update_button"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toStartOf="@+id/button_delete"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toEndOf="@+id/button_add"
+            app:layout_constraintTop_toTopOf="@+id/button_add" />
+
+        <Button
+            android:id="@+id/button_add"
+            android:layout_width="86dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="132dp"
+            android:background="@drawable/custom_button_db"
+            android:fontFamily="monospace"
+            android:text="@string/add_button"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toStartOf="@+id/button_update"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ListView
+            android:id="@+id/IsData"
+            android:layout_width="387dp"
+            android:layout_height="515dp"
+            android:layout_marginStart="1dp"
+            android:layout_marginEnd="1dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/button_update"
+            app:layout_constraintVertical_bias="0.471" />
+
+        <Button
+            android:id="@+id/button_delete"
+            android:layout_width="86dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/custom_button_db"
+            android:fontFamily="monospace"
+            android:text="@string/delete_button"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toEndOf="@+id/button_update"
+            app:layout_constraintTop_toTopOf="@+id/button_update" />
+
+        <EditText
+            android:id="@+id/NumberOfPartionSize"
+            android:layout_width="96dp"
+            android:layout_height="45dp"
+            android:layout_marginTop="8dp"
+            android:hint="@string/portionSize"
+            android:importantForAutofill="no"
+            android:inputType="number"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/dishName"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.098" />
+
+        <EditText
+            android:id="@+id/dishName"
+            android:layout_width="152dp"
+            android:layout_height="44dp"
+            android:layout_marginEnd="128dp"
+            android:ems="10"
+            android:hint="@string/dishName"
+            android:importantForAutofill="no"
+            android:inputType="textPersonName"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.7"
+            app:layout_constraintStart_toEndOf="@+id/textid"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.11" />
+
+        <EditText
+            android:id="@+id/textid"
+            android:layout_width="64dp"
+            android:layout_height="44dp"
+
+            android:layout_marginTop="20dp"
+            android:hint="@string/textid"
+            android:importantForAutofill="no"
+            android:inputType="number"
+            android:textSize="18sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.109"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView"
+            app:layout_constraintVertical_bias="0.0" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+</RelativeLayout>

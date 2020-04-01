@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">MyAndroidProject</string>
+    <!-- IMAGE -->
+    <string name="logoWhereFood">WhereFood</string>
+    <string name="loginlogo">Login</string>
+    <string name="WherefoodLogin">wherefood</string>
+    <string name="logoRegister">Register</string>
+    <string name="rainbow">rainbow</string>
+    <string name="option">option</string>
+    <string name="menulogo">menu</string>
+    <string name="picdish">dish</string>
+    <!-- TEXT -->
+    <string name="BeHealthytext">Be healthy every day!</string>
+    <string name="Goback">Go back</string>
+    <string name="email_edittext_login">Email</string>
+    <string name="password_edittext_login">Password</string>
+    <string name="UserType">Username</string>
+    <string name="logout">Logout</string>
+    <string name="mylist">My food list</string>
+    <string name="textid">ID</string>
+    <string name="dishName">Dish name</string>
+    <string name="portionSize">Calories</string>
+
+    <!-- BUTTION -->
+    <string name="Main_login_button">Login</string>
+    <string name="Main_register_button">Register</string>
+    <string name="Select_Photo_button">Select photo</string>
+    <string name="ok">OK</string>
+    <string name="bml">BML Calculator</string>
+    <string name="calories">Today calories</string>
+    <string name="foodbutton">Food</string>
+    <string name="choosepic">Choose pic</string>
+    <string name="add_button">Add</string>
+    <string name="update_button">Update</string>
+    <string name="delete_button">Delete</string>
+
+
+
+
+</resources>

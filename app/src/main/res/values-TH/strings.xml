@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MyAndroidProject</string>
+    <!-- IMAGE -->
+    <string name="logoWhereFood">WhereFood</string>
+    <string name="loginlogo">Login</string>
+    <string name="WherefoodLogin">wherefood</string>
+    <string name="logoRegister">Register</string>
+    <string name="rainbow">rainbow</string>
+    <string name="option">option</string>
+    <string name="menulogo">menu</string>
+    <string name="picdish">dish</string>
+    <!-- TEXT -->
+    <string name="BeHealthytext">สุขภาพที่ดีได้ทุกวัน!</string>
+    <string name="Goback">ย้อนกลับ</string>
+    <string name="email_edittext_login">อีเมล์</string>
+    <string name="password_edittext_login">รหัสผ่าน</string>
+    <string name="UserType">ชื่อผู้ใช้</string>
+    <string name="logout">ออกจากระบ</string>
+    <string name="mylist">รายการอาหารของฉัน</string>
+    <string name="textid">หมายเลข</string>
+    <string name="dishName">ชื่ออาหาร</string>
+    <string name="portionSize">แคลอรี่</string>
+    <!-- BUTTION -->
+    <string name="Main_login_button">เข้าสู่ระบบ</string>
+    <string name="Main_register_button">ลงทะเบียน</string>
+    <string name="Select_Photo_button">เลือกรูปภาพ</string>
+    <string name="ok">OK</string>
+    <string name="bml">คำนวน BML</string>
+    <string name="calories">แคลอรี่วันนี้</string>
+    <string name="foodbutton">อาหาร</string>
+    <string name="choosepic">เลิอกรูปภาพ</string>
+    <string name="add_button">เพิม</string>
+    <string name="update_button">อัพเดต</string>
+    <string name="delete_button">ลบ</string>
+
+
+
+
+</resources>
